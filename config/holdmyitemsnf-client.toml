@@ -1,0 +1,45 @@
+[animations]
+	#Choose your preferred animation speed (0.5-1.5)
+	# Default: 1.0
+	# Range: 0.5 ~ 1.5
+	animationSpeed = 1.0
+	#Switch speed (0-10)
+	# Default: 0.018
+	# Range: 0.0 ~ 10.0
+	switchSpeed = 0.018
+	#Enable or disable swimming animation
+	enableSwimmingAnimation = true
+	#Swing animation speed (6-12)
+	# Default: 9
+	# Range: 6 ~ 12
+	swingSpeed = 9
+	#Enable or disable climb and crawl animation
+	enableClimbAndCrawlAnimation = true
+	#Enable or disable punching animation
+	enablePunchingAnimation = true
+
+[positions]
+	#Viewmodel Z Offset
+	# Default: 0.0
+	# Range: -10.0 ~ 10.0
+	viewmodelZOffset = -0.5
+	#Viewmodel Y Offset
+	# Default: 0.0
+	# Range: -10.0 ~ 10.0
+	viewmodelYOffset = -0.15
+	#Viewmodel X Offset
+	# Default: 0.0
+	# Range: -10.0 ~ 10.0
+	viewmodelXOffset = 0.3
+
+[misc]
+	#Enable MB3D compatibility mode
+	mb3DCompat = true
+
+[modRenderExclusions]
+	#Mod IDs that should be excluded from custom rendering (entire mod).
+	excludedModIds = ["dndecor", "copycats", "paraglider", "dndesires", "sliceanddice", "simplyswords", "enderio", "waystones", "mob_grinding_utils"]
+	#Specific item IDs to exclude from custom rendering (e.g. 'modid:itemname').
+	excludedItemIds = ["custommachinery:custom_machine_item", "minecraft:nether_star", "minecraft:nether_wart", "minecraft:sunflower", "createdieselgenerators:hammer", "minecraft:sugar_cane", "createaddition:rolling_mill", "minecraft:kelp", "create_sa:flamethrower", "create_sa:block_picker", "create_sa:portable_drill", "create_sa:grapplin_whisk", "kubejs:ender_eye_on_a_stick", "toms_storage:inventory_cable_framed", "toms_storage:inventory_configurator", "toms_storage:inventory_cable", "operation_starcleave:blessed_bed", "toms_storage:crafting_terminal", "toms_storage:storage_terminal", "farmersdelight:rice", "supplementaries:ash", "createoreexcavation:vein_finder", "born_in_chaos_v1:nightmare_stalker_skull", "born_in_chaos_v1:lifestealer_skull", "chancecubes:chance_icosahedron", "unusualend:healing_lantern", "expandeddelight:crushing_mallet", "chisel:chisel", "minecraft:bow", "supplementaries:confetti_popper", "farmersdelight:skillet", "minecraft:wheat_seeds", "minecraft:pumpkin_seeds", "minecraft:melon_seeds", "minecraft:beetroot_seeds", "supplementaries:flax_seeds", "minecraft:torchflower_seeds", "farmersdelight:cabbage_seeds", "farmersdelight:tomato_seeds", "expandeddelight:chili_pepper_seeds", "expandeddelight:asparagus_seeds", "born_in_chaos_v1:darkwarblade", "born_in_chaos_v1:nightmare_scythe", "born_in_chaos_v1:soul_cutlass", "born_in_chaos_v1:frostbitten_blade", "born_in_chaos_v1:bonescaller_staff", "born_in_chaos_v1:soulbane"]
+	#Skips the blockItem renderer, useful especially for create items because they're already 3D.
+	renderBlockAsItem = ["ironchest:trapped_copper_chest", "ironchest:trapped_iron_chest", "ironchest:trapped_gold_chest", "ironchest:trapped_diamond_chest", "ironchest:trapped_obsidian_chest", "ironchest:trapped_crystal_chest", "ironchest:trapped_dirt_chest", "ironchest:copper_chest", "ironchest:iron_chest", "ironchest:gold_chest", "ironchest:diamond_chest", "ironchest:obsidian_chest", "ironchest:crystal_chest", "ironchest:dirt_chest", "create:cogwheel", "create:large_cogwheel", "create:shaft", "create:gearbox", "create:vertical_gearbox", "create:clutch", "create:gearshift", "create:encased_chain_drive", "create:adjustable_chain_gearshift", "create:belt_connector", "create:chain_conveyor", "create:creative_motor", "create:water_wheel", "create:large_water_wheel", "create:nozzle", "create:turntable", "create:hand_crank", "create:millstone", "create:crushing_wheel", "create:mechanical_press", "create:mechanical_mixer", "create:empty_blaze_burner", "create:blaze_burner", "create:depot", "create:weighted_ejector", "create:speedometer", "create:stressometer", "create:wooden_bracket", "create:metal_bracket", "create:schematicannon", "create:fluid_pipe", "create:mechanical_pump", "create:smart_fluid_pipe", "create:fluid_valve", "create:copper_valve_handle", "create:hose_pulley", "create:portable_fluid_interface", "create:steam_engine", "create:gantry_carriage", "create:gantry_shaft", "create:windmill_bearing", "create:mechanical_bearing", "create:clockwork_bearing", "create:rope_pulley", "create:elevator_pulley", "create:cart_assembler", "create:sticker", "create:contraption_controls", "create:mechanical_drill", "create:mechanical_saw", "create:deployer", "create:portable_storage_interface", "create:mechanical_harvester", "create:mechanical_plough", "create:mechanical_roller", "create:mechanical_crafter", "create:sequenced_gearshift", "create:flywheel", "create:rotation_speed_controller", "create:mechanical_arm", "create:controls", "create:andesite_funnel", "create:brass_funnel", "create:andesite_tunnel", "create:brass_tunnel", "create:package_frogport", "create:factory_gauge", "create:display_board", "create:peculiar_bell", "create:haunted_bell", "create:brown_toolbox", "create:clipboard"]

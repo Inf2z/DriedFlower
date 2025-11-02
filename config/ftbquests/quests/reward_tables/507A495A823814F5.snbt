@@ -1,0 +1,130 @@
+{
+	id: "507A495A823814F5"
+	loot_size: 1
+	order_index: 4
+	rewards: [
+		{
+			id: "1236BD78D1DFC76F"
+			item: {
+				count: 1
+				id: "chancecubes:chance_cube"
+			}
+			weight: 0.4f
+		}
+		{ id: "1C7D206D8B6DB04F", item: { count: 1, id: "born_in_chaos_v1:charmof_endurance" } }
+		{ id: "5B3D0BAB1F78C53B", item: { count: 1, id: "born_in_chaos_v1:charmof_stealth" } }
+		{ id: "14E6EFEF0EE880B3", item: { count: 1, id: "simplyswords:empowered_remnant" } }
+		{
+			count: 8
+			id: "08CC767CCC17FB65"
+			item: {
+				count: 1
+				id: "born_in_chaos_v1:creepy_cookies_with_milk"
+			}
+		}
+		{
+			id: "28FCA842E0E25754"
+			item: {
+				count: 1
+				id: "born_in_chaos_v1:krampuss_bag"
+			}
+			weight: 0.01f
+		}
+		{
+			id: "3BB14856E982804B"
+			item: {
+				count: 1
+				id: "born_in_chaos_v1:sweet_sword"
+			}
+			weight: 0.1f
+		}
+		{
+			id: "26568389EE204757"
+			item: {
+				count: 1
+				id: "born_in_chaos_v1:elixir_of_vampirism"
+			}
+			weight: 0.2f
+		}
+		{
+			id: "1D72AF7471D8D131"
+			item: {
+				count: 1
+				id: "born_in_chaos_v1:elixirof_insect_protection"
+			}
+			weight: 0.6f
+		}
+		{
+			id: "29C02580C0E9471A"
+			item: {
+				count: 1
+				id: "simplyswords:runic_tablet"
+			}
+			weight: 0.1f
+		}
+		{ id: "5FA1D2BCBF28043A", item: { count: 1, id: "expandeddelight:goat_milk_bucket" } }
+		{
+			id: "2D91FF8CD7DE3F07"
+			item: {
+				count: 1
+				id: "unusualend:citrine_amulet"
+			}
+			weight: 0.05f
+		}
+		{
+			id: "1F9BBEBCEE04FFD1"
+			item: {
+				count: 1
+				id: "angeloshammers:diamond_hammer"
+			}
+			weight: 0.6f
+		}
+		{ id: "2333DF2B006400B3", item: { count: 1, id: "born_in_chaos_v1:nut_hammer" } }
+		{
+			id: "32DCD598AE5020D4"
+			item: {
+				count: 1
+				id: "supplementaries:globe"
+			}
+			weight: 0.1f
+		}
+		{
+			id: "3FD30192A127DD2F"
+			type: "xp"
+			weight: 0.2f
+			xp: 15
+		}
+		{
+			id: "545411D7221B3145"
+			item: {
+				count: 1
+				id: "simplehats:hatbag_uncommon"
+			}
+			weight: 0.5f
+		}
+		{
+			count: 3
+			id: "5EB6CFE20B6B3B4B"
+			item: {
+				count: 1
+				id: "simplehats:hatbag_rare"
+			}
+		}
+		{
+			id: "7CF56D26A70F87B9"
+			item: {
+				count: 1
+				id: "chancecubes:scanner"
+			}
+			weight: 0.4f
+		}
+		{
+			id: "4CDB3A1817F05A3C"
+			item: {
+				count: 1
+				id: "born_in_chaos_v1:infernal_evil_pumpkin_s"
+			}
+			weight: 0.3f
+		}
+	]
+}

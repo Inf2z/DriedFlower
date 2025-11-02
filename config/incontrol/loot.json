@@ -1,0 +1,25 @@
+[
+  {
+    "mob": "born_in_chaos_v1:pumpkinhead",
+    "removeall": true,
+    "item": "kubejs:sir_pumpkinhead_lootbag"
+  },
+  {
+    "mob": "born_in_chaos_v1:lord_pumpkinhead_head",
+    "removeall": true,
+    "item": "kubejs:lord_pumpkinhead_lootbag"
+  },
+  {
+    "mob": "born_in_chaos_v1:missioner",
+    "remove":["born_in_chaos_v1:charmof_power", "born_in_chaos_v1:charmof_resistance", "born_in_chaos_v1:charmof_stealth", "born_in_chaos_v1:charmof_endurance", "born_in_chaos_v1:charmof_fury"] 
+  },
+  {
+    "mob": "minecraft:skeleton_horse",
+    "remove": "endrem:undead_soul"
+  },
+  {
+    "mob": "born_in_chaos_v1:mrs_pumpkin",
+    "random": "0.05",
+    "item": "simplehats:mrs_pumpkins_hat"
+  }
+]

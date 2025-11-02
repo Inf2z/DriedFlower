@@ -1,0 +1,132 @@
+{
+	id: "27374695EE57B79A"
+	loot_size: 1
+	order_index: 2
+	rewards: [
+		{
+			count: 32
+			id: "3A2B407127FCF83F"
+			item: {
+				count: 1
+				id: "farmersdelight:hamburger"
+			}
+			weight: 0.5f
+		}
+		{
+			count: 3
+			id: "185ED3781A1874C9"
+			item: {
+				count: 1
+				id: "mynethersdelight:ghasta_with_cream"
+			}
+			weight: 0.3f
+		}
+		{
+			count: 32
+			id: "532D99AADB62768F"
+			item: {
+				count: 1
+				id: "mynethersdelight:hotdog_with_nether_salad"
+			}
+			weight: 0.5f
+		}
+		{
+			id: "7173C983D3CD023B"
+			item: {
+				count: 1
+				id: "ironchest:diamond_chest"
+			}
+			weight: 0.3f
+		}
+		{
+			count: 5
+			id: "2C40DEE21BD656B6"
+			item: {
+				count: 1
+				id: "born_in_chaos_v1:dark_metal_ingot"
+			}
+			weight: 0.1f
+		}
+		{
+			id: "78DC1296F74914DF"
+			item: {
+				count: 1
+				id: "born_in_chaos_v1:carrot_sword"
+			}
+			weight: 0.15f
+		}
+		{
+			id: "3CE7E96130401233"
+			item: {
+				count: 1
+				id: "born_in_chaos_v1:wood_splitter_axe"
+			}
+			weight: 0.08f
+		}
+		{
+			count: 16
+			id: "0FCDAFA26DECCEE8"
+			item: {
+				count: 1
+				id: "create:electron_tube"
+			}
+			weight: 0.1f
+		}
+		{
+			id: "1B0004A203807F13"
+			type: "xp"
+			weight: 0.15f
+			xp: 15
+		}
+		{
+			count: 8
+			id: "0B361AFF6013AE4D"
+			item: {
+				count: 1
+				id: "create:blaze_cake"
+			}
+			weight: 0.6f
+		}
+		{
+			count: 64
+			id: "2218396568D499CA"
+			item: {
+				count: 1
+				id: "supplementaries:confetti_popper"
+			}
+			weight: 0.6f
+		}
+		{
+			id: "56F00612437E1D67"
+			item: {
+				count: 1
+				id: "minecraft:conduit"
+			}
+			weight: 0.001f
+		}
+		{
+			count: 3
+			id: "42086F9FDDAEA34A"
+			item: {
+				count: 1
+				id: "sophisticatedbackpacks:upgrade_base"
+			}
+		}
+		{
+			count: 3
+			id: "124A483C03A05C4E"
+			item: {
+				count: 1
+				id: "simplehats:hatbag_rare"
+			}
+		}
+		{
+			id: "19773AE5A99826E2"
+			item: {
+				count: 1
+				id: "simplehats:hatbag_epic"
+			}
+			weight: 0.2f
+		}
+	]
+}

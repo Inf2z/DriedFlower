@@ -1,0 +1,535 @@
+{
+	autofocus_id: "0E98502A2D8F4008"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "wip"
+	group: ""
+	icon: {
+		id: "biomesoplenty:rose"
+	}
+	id: "7131AA129182CCF2"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "0E98502A2D8F4008"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "16D44EF27914C59C"
+					table_id: 1738723869433482838L
+					type: "loot"
+				}
+				{
+					id: "06EC55AF1A7ECD4A"
+					item: {
+						count: 1
+						id: "minecraft:lantern"
+					}
+					type: "item"
+				}
+			]
+			shape: "square"
+			size: 1.25d
+			tasks: [{
+				id: "14B86B1619EB48C9"
+				item: { count: 1, id: "simple_flint_tools:flinthatchet" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["0E98502A2D8F4008"]
+			id: "1B12F332AFD7B949"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "256D9AA8EED09799"
+				table_id: 112123890097281535L
+				type: "loot"
+			}]
+			shape: "square"
+			tasks: [{
+				id: "6CA938C8B08CA1E6"
+				item: { count: 1, id: "simplyswords:empowered_remnant" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["07AE865FA960E5B2"]
+			id: "4BFBF6C4438A1FD6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "33A129C3BD859338"
+				table_id: 528667202088172388L
+				type: "loot"
+			}]
+			shape: "square"
+			tasks: [{
+				id: "1E2BD6DC5BAFA5F4"
+				item: { count: 1, id: "kubejs:saturated_remnant" }
+				type: "item"
+			}]
+			x: 10.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["1B12F332AFD7B949"]
+			id: "0677748184E52EE5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0BEFB47A0DE8B116"
+				table_id: 112123890097281535L
+				type: "loot"
+			}]
+			shape: "square"
+			tasks: [{
+				id: "7FA61D61B43DFCAA"
+				item: { count: 1, id: "kubejs:ghostly_remnant" }
+				type: "item"
+			}]
+			x: 8.5d
+			y: 0.5d
+		}
+		{
+			dependencies: [
+				"0677748184E52EE5"
+				"4BFBF6C4438A1FD6"
+				"1B12F332AFD7B949"
+				"05AFC81EF74DEF5E"
+				"36405FDCF4962EC7"
+			]
+			dependency_requirement: "one_completed"
+			hide_dependency_lines: true
+			id: "6CFF3AF6162E7B38"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4A26B4D1B2F1E200"
+					table_id: 5799028123273532661L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7C772F1A368E4305"
+					table_id: 2825804900961073050L
+					type: "loot"
+				}
+			]
+			shape: "diamond"
+			size: 1.25d
+			tasks: [
+				{
+					id: "4A9F3C90DDEE41A9"
+					item: { count: 1, id: "endrem:rogue_eye" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "03D4C801A701F8D1"
+					item: { count: 1, id: "endrem:nether_eye" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "617685724BC3A5AA"
+					item: { count: 1, id: "endrem:magical_eye" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "7DDD773F256516CB"
+					item: { count: 1, id: "endrem:lost_eye" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "30FA86AC30893CA3"
+					item: { count: 1, id: "endrem:cursed_eye" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "21E564807BE074A2"
+					item: { count: 1, id: "endrem:evil_eye" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "06B5F85058639A53"
+					item: { count: 1, id: "endrem:cryptic_eye" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "00031B53A53A3386"
+					item: { count: 1, id: "endrem:undead_eye" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "5ECD54EBEA8E8DED"
+					item: { count: 1, id: "endrem:wither_eye" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "7416BF20225A35FC"
+					item: { count: 1, id: "endrem:cold_eye" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "20AA46BECE12C32B"
+					item: { count: 1, id: "endrem:witch_eye" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "223C8941AC81DB9E"
+					item: { count: 1, id: "endrem:corrupted_eye" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					dimension: "minecraft:the_end"
+					id: "5C154C822DC26C52"
+					type: "dimension"
+				}
+			]
+			x: 6.875d
+			y: 4.375d
+		}
+		{
+			dependencies: ["1B12F332AFD7B949"]
+			id: "36405FDCF4962EC7"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "391EFFBBB7B18512"
+				table_id: 112123890097281535L
+				type: "loot"
+			}]
+			shape: "square"
+			tasks: [{
+				entity: "born_in_chaos_v1:pumpkinhead"
+				icon: {
+					components: {
+						"ftbquests:icon": "born_in_chaos_v1:item/pumpkinhead_icon"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "008ADC9F170F6D72"
+				type: "kill"
+				value: 1L
+			}]
+			x: 8.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["36405FDCF4962EC7"]
+			disable_recipe_mod: false
+			id: "07AE865FA960E5B2"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "24537BD6177D6834"
+				table_id: 528667202088172388L
+				type: "loot"
+			}]
+			shape: "diamond"
+			size: 1.25d
+			tasks: [{
+				id: "70CDE651F2CC44B2"
+				item: { count: 1, id: "born_in_chaos_v1:transmuting_elixir" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: -1.875d
+		}
+		{
+			dependencies: ["07AE865FA960E5B2"]
+			id: "05BBFD72330BBFAE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "51141A8F831B3857"
+				table_id: 2825804900961073050L
+				type: "loot"
+			}]
+			shape: "square"
+			tasks: [{
+				entity: "born_in_chaos_v1:lord_pumpkinhead_head"
+				icon: {
+					components: {
+						"ftbquests:icon": "born_in_chaos_v1:item/lordpumpkinhead_icon"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "2879A3B05A56AD07"
+				type: "kill"
+				value: 1L
+			}]
+			x: 12.5d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"41E1E70B725E6EF5"
+				"05BBFD72330BBFAE"
+				"05AFC81EF74DEF5E"
+				"196A1D23BC53039D"
+			]
+			id: "2F517348E2AF36E7"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "49B2AE2669E1A082"
+					table_id: 4662025026601592711L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2F8613DCD13D9B88"
+					table_id: 5799028123273532661L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "37FE808645D94861"
+					table_id: 4662025026601592711L
+					type: "loot"
+				}
+			]
+			shape: "diamond"
+			size: 1.25d
+			tasks: [
+				{
+					id: "6F217EECD2D87E6B"
+					item: { count: 1, id: "kubejs:big_bang_remnant" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "68AAB9C01A92E7A1"
+					item: { count: 1, id: "kubejs:big_bang_remnant_pieces" }
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: 1.25d
+		}
+		{
+			dependencies: ["6CFF3AF6162E7B38"]
+			id: "41E1E70B725E6EF5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7C4972D343CC3EDC"
+				table_id: 528667202088172388L
+				type: "loot"
+			}]
+			shape: "diamond"
+			size: 1.25d
+			tasks: [{
+				entity: "minecraft:ender_dragon"
+				id: "1689ABAE72F0C2C7"
+				type: "kill"
+				value: 1L
+			}]
+			x: 13.75d
+			y: 3.125d
+		}
+		{
+			dependencies: ["6CFF3AF6162E7B38"]
+			id: "7FE66E2C73FAE50B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3B87EF7F57D312E8"
+				table_id: 2825804900961073050L
+				type: "loot"
+			}]
+			shape: "square"
+			tasks: [
+				{
+					count: 5L
+					id: "1019FA6ECE042676"
+					item: { count: 1, id: "kubejs:supreme_nugget" }
+					type: "item"
+				}
+				{
+					id: "42753C27963D5080"
+					item: { count: 1, id: "kubejs:supreme_ingot" }
+					type: "item"
+				}
+			]
+			x: 11.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["2F517348E2AF36E7"]
+			id: "4EEA29F20AC00E6F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3F062F25FC68C464"
+				table_id: 112123890097281535L
+				type: "loot"
+			}]
+			shape: "diamond"
+			size: 1.25d
+			tasks: [{
+				id: "334D09C34AF28FBF"
+				item: { count: 1, id: "kubejs:supreme_essence" }
+				type: "item"
+			}]
+			x: 15.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7139EADFCC9BB004"]
+			icon_scale: 2.0d
+			id: "55B309CF04214A4F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7C6B01029EB32E67"
+				table_id: 5799028123273532661L
+				type: "loot"
+			}]
+			shape: "square"
+			size: 3.0d
+			tasks: [
+				{
+					dimension: "driedflower:recreated_overworld"
+					icon: {
+						id: "kubejs:star"
+					}
+					id: "1DC874D4A17EAD2D"
+					type: "dimension"
+				}
+				{
+					count: 10L
+					id: "6211FC8FA861946D"
+					item: { count: 1, id: "kubejs:rift_stabilizer" }
+					type: "item"
+				}
+			]
+			x: 19.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["0E98502A2D8F4008"]
+			id: "05AFC81EF74DEF5E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "396FCA35FFA7E0A1"
+				table_id: 2825804900961073050L
+				type: "loot"
+			}]
+			shape: "diamond"
+			size: 1.25d
+			tasks: [
+				{
+					entity: "born_in_chaos_v1:nightmare_stalker"
+					icon: {
+						components: {
+							"ftbquests:icon": "driedflower:textures/quests/born_in_chaos_v1_nightmare_stalker_icon.png"
+						}
+						id: "ftbquests:custom_icon"
+					}
+					id: "50893AA60F67D29F"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "born_in_chaos_v1:lifestealer_true_form"
+					icon: {
+						components: {
+							"ftbquests:icon": "driedflower:textures/quests/born_in_chaos_v1_lifestealer_icon.png"
+						}
+						id: "ftbquests:custom_icon"
+					}
+					id: "28BF047EB1820010"
+					type: "kill"
+					value: 1L
+				}
+				{
+					id: "136D47DADBA4A293"
+					item: { count: 1, id: "born_in_chaos_v1:nightmare_stalker_skull" }
+					type: "item"
+				}
+				{
+					id: "7455709877F586B9"
+					item: { count: 1, id: "born_in_chaos_v1:lifestealer_skull" }
+					type: "item"
+				}
+			]
+			x: 5.625d
+			y: 2.5d
+		}
+		{
+			dependencies: ["6CFF3AF6162E7B38"]
+			id: "196A1D23BC53039D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "244FD034DF7380B5"
+				table_id: 528667202088172388L
+				type: "loot"
+			}]
+			shape: "square"
+			tasks: [
+				{
+					id: "7CD13B675976E6DF"
+					item: { count: 1, id: "kubejs:star" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "2DD7B5545C8806D8"
+					item: { count: 1, id: "kubejs:star_shards" }
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"4EEA29F20AC00E6F"
+				"7FE66E2C73FAE50B"
+			]
+			id: "3D27EB6126075F71"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6BB532C3F3620ABB"
+				table_id: 2825804900961073050L
+				type: "loot"
+			}]
+			shape: "diamond"
+			size: 1.25d
+			tasks: [{
+				id: "37FD303DAD506A86"
+				item: { components: { "custommachinery:machine": "custommachinery:matter_manipulator" }, count: 1, id: "custommachinery:custom_machine_item" }
+				type: "item"
+			}]
+			x: 16.875d
+			y: 3.75d
+		}
+		{
+			dependencies: ["3D27EB6126075F71"]
+			id: "7139EADFCC9BB004"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4B0D72333CA52A7E"
+				table_id: 2825804900961073050L
+				type: "loot"
+			}]
+			shape: "diamond"
+			size: 1.25d
+			tasks: [{
+				id: "65C8BF83F4B95062"
+				item: { count: 1, id: "kubejs:supreme_matter" }
+				type: "item"
+			}]
+			x: 19.5d
+			y: 2.5d
+		}
+	]
+}

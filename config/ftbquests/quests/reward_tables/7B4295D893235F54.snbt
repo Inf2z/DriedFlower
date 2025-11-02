@@ -1,0 +1,166 @@
+{
+	id: "7B4295D893235F54"
+	loot_size: 1
+	order_index: 6
+	rewards: [
+		{
+			id: "6A73EE7F5F6C64DC"
+			item: {
+				count: 1
+				id: "chancecubes:chance_cube"
+			}
+			weight: 0.3f
+		}
+		{
+			count: 4
+			id: "1E7600B7F1485E2C"
+			item: {
+				count: 1
+				id: "minecraft:slime_ball"
+			}
+		}
+		{ id: "6CCE49018F6C1DE2", item: { count: 1, id: "seeddelight:cherry_crate" } }
+		{ id: "59155B525CA317A7", item: { count: 1, id: "seeddelight:rosehip_crate" } }
+		{ id: "5084BD825491B52D", item: { count: 1, id: "expandeddelight:sweet_potato_crate" } }
+		{ id: "5CFE41EC70704D58", item: { count: 1, id: "expandeddelight:asparagus_crate" } }
+		{
+			count: 2
+			id: "0354B64FE2A5458A"
+			item: {
+				count: 1
+				id: "minersdelight:cave_carrot_crate"
+			}
+		}
+		{ id: "063A533BC75E63F6", item: { count: 1, id: "expandeddelight:chili_pepper_crate" } }
+		{ id: "73A75F8062B22FC6", item: { count: 1, id: "create:super_glue" } }
+		{
+			id: "3A612CC5D9489745"
+			item: {
+				count: 1
+				id: "artifacts:mimic_spawn_egg"
+			}
+			weight: 0.8f
+		}
+		{ id: "41A4E5AFBEFA51D8", item: { components: { "relics:data": { abilities: { abilities: { push: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { chance: { initialValue: 0.33691d }, radius: { initialValue: 3.54169d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "artifacts:whoopee_cushion" } }
+		{ id: "2D6DF6D35AF9530D", item: { count: 1, id: "born_in_chaos_v1:evilometer" } }
+		{
+			id: "5D825AC903550062"
+			item: {
+				count: 1
+				id: "create_sa:blazing_cleaver"
+			}
+			weight: 0.1f
+		}
+		{
+			id: "53C6A62EC5C7A02A"
+			item: {
+				count: 1
+				id: "create_sa:blazing_pickaxe"
+			}
+			weight: 0.1f
+		}
+		{ id: "1C7041D3C4DEE032", item: { count: 1, id: "sophisticatedbackpacks:upgrade_base" } }
+		{
+			count: 4
+			id: "61467529C139B39F"
+			item: {
+				count: 1
+				id: "farmersdelight:mutton_wrap"
+			}
+		}
+		{
+			count: 16
+			id: "37DD46AE814AD1D6"
+			item: {
+				count: 1
+				id: "born_in_chaos_v1:river_mint"
+			}
+		}
+		{
+			count: 8
+			id: "3193A7520CD2FE7A"
+			item: {
+				count: 1
+				id: "born_in_chaos_v1:marigolds"
+			}
+		}
+		{
+			id: "32D8364CF865CA53"
+			item: {
+				count: 1
+				id: "born_in_chaos_v1:birch_branches"
+			}
+			weight: 0.1f
+		}
+		{ id: "4612A866F1467150", item: { count: 1, id: "dndesires:chocolate_milkshake_bucket" } }
+		{ id: "5E3991130D6BF7D9", item: { count: 1, id: "dndesires:vanilla_milkshake_bucket" } }
+		{ id: "581658EBBD217D2F", item: { count: 1, id: "dndesires:strawberry_milkshake_bucket" } }
+		{ id: "505B181708A278BC", item: { count: 1, id: "dndesires:glowberry_milkshake_bucket" } }
+		{ id: "4312ACDC5443C9B9", item: { count: 1, id: "dndesires:pumpkin_milkshake_bucket" } }
+		{ id: "6BE0AB8FE8453813", item: { count: 1, id: "farmersdelight:rice_bale" } }
+		{
+			count: 8
+			id: "2E459DC6E6BABA34"
+			item: {
+				count: 1
+				id: "born_in_chaos_v1:chocolate_heart"
+			}
+		}
+		{
+			id: "7B7F1CF0B353327E"
+			item: {
+				count: 1
+				id: "born_in_chaos_v1:anluka_doors"
+			}
+			weight: 0.15f
+		}
+		{
+			id: "28F57F51FF282449"
+			item: {
+				count: 1
+				id: "born_in_chaos_v1:serpumpkinhead_m"
+			}
+			weight: 0.15f
+		}
+		{
+			id: "7EC515C8B4A2DB9A"
+			item: {
+				count: 1
+				id: "supplementaries:music_disc_heave_ho"
+			}
+			weight: 0.15f
+		}
+		{
+			id: "4EA53C26215876AA"
+			item: {
+				count: 1
+				id: "unusualend:music_disc_endstone_golem_theme"
+			}
+			weight: 0.15f
+		}
+		{
+			id: "7638514526EB3BC6"
+			item: {
+				count: 1
+				id: "unusualend:music_disc_flying_ships"
+			}
+			weight: 0.15f
+		}
+		{
+			id: "398648EBC80ABD50"
+			item: {
+				count: 1
+				id: "unusualend:music_disc_queen"
+			}
+			weight: 0.15f
+		}
+		{
+			count: 3
+			id: "61D461B82B3935FB"
+			item: {
+				count: 1
+				id: "simplehats:hatbag_common"
+			}
+		}
+	]
+}

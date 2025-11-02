@@ -1,0 +1,170 @@
+{
+	id: "07563404F0DD7B64"
+	loot_size: 1
+	order_index: 1
+	rewards: [
+		{
+			id: "5E310836A157C274"
+			item: {
+				count: 1
+				id: "farmersdelight:stove"
+			}
+			weight: 0.8f
+		}
+		{
+			id: "57CE2658B8C3DF96"
+			item: {
+				count: 1
+				id: "farmersdelight:cooking_pot"
+			}
+			weight: 0.8f
+		}
+		{
+			id: "06FE516D58752CA7"
+			item: {
+				count: 1
+				id: "farmersdelight:skillet"
+			}
+			weight: 0.8f
+		}
+		{
+			id: "091C4F007F5A1B59"
+			item: {
+				count: 1
+				id: "chisel:chisel"
+			}
+			weight: 0.9f
+		}
+		{
+			count: 16
+			id: "01C2211C87B6F1F4"
+			item: {
+				count: 1
+				id: "enderio:grains_of_infinity"
+			}
+			weight: 0.5f
+		}
+		{
+			id: "073B1014DFAABB19"
+			item: {
+				count: 1
+				id: "ironchest:gold_to_diamond_chest_upgrade"
+			}
+			weight: 0.3f
+		}
+		{
+			count: 5
+			id: "5EEEFE0CBE65FEB2"
+			item: {
+				count: 1
+				id: "simplyswords:empowered_remnant"
+			}
+			weight: 0.02f
+		}
+		{
+			id: "28C9AF8EE2AEDDA4"
+			type: "xp"
+			weight: 0.2f
+			xp: 5
+		}
+		{
+			id: "6E603CA4F1A1298C"
+			item: {
+				count: 1
+				id: "born_in_chaos_v1:trident_hayfork"
+			}
+			weight: 0.02f
+		}
+		{
+			count: 2
+			id: "4C850FCC16F892DF"
+			item: {
+				count: 1
+				id: "minecraft:ender_pearl"
+			}
+		}
+		{
+			count: 5
+			id: "21B37F015D44CFAD"
+			item: {
+				count: 1
+				id: "mynethersdelight:hotdog_with_mixed_salad"
+			}
+			weight: 0.9f
+		}
+		{
+			count: 5
+			id: "0E5D381495607C65"
+			item: {
+				count: 1
+				id: "mynethersdelight:hotdog"
+			}
+			weight: 0.9f
+		}
+		{
+			count: 16
+			id: "3EDE17C52ADC9209"
+			item: {
+				count: 1
+				id: "supplementaries:confetti_popper"
+			}
+		}
+		{
+			id: "43F8495CE4CAC62E"
+			item: {
+				count: 1
+				id: "unusualend:warped_anchor"
+			}
+			weight: 0.2f
+		}
+		{
+			id: "3B1018B5BC6435B2"
+			item: {
+				count: 1
+				id: "minecraft:ghast_tear"
+			}
+			weight: 0.5f
+		}
+		{
+			id: "176C2CB418A05EBD"
+			item: {
+				count: 1
+				id: "mynethersdelight:nether_bricks_stove"
+			}
+			weight: 0.8f
+		}
+		{
+			id: "48AAFF326CFEF26D"
+			item: {
+				count: 1
+				id: "mynethersdelight:magma_cake_block"
+			}
+			weight: 0.5f
+		}
+		{
+			count: 3
+			id: "04301E375BEA17B2"
+			item: {
+				count: 1
+				id: "minecraft:wither_skeleton_skull"
+			}
+			weight: 0.01f
+		}
+		{
+			count: 3
+			id: "72F086CA97CEF555"
+			item: {
+				count: 1
+				id: "simplehats:hatbag_uncommon"
+			}
+		}
+		{
+			id: "4B5CF6FC89A8F2D5"
+			item: {
+				count: 1
+				id: "simplehats:hatbag_rare"
+			}
+			weight: 0.3f
+		}
+	]
+}

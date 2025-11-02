@@ -1,0 +1,58 @@
+{
+  "block.kubejs.rift_stabilizer": "§bRift Stabilizator",
+  "block.kubejs.supreme_ingot_block": "§4Supreme Ingot Block",
+  "block.kubejs.matter_manipulator": "§bMatter Manipulator",
+
+  "item.kubejs.supreme_rod": "§4Supreme Rod",
+  "item.kubejs.supreme_nugget": "§4Supreme Nugget",
+  "item.kubejs.supreme_ingot": "§4Supreme Ingot",
+  "item.kubejs.supreme_matter": "Supreme Matter",
+  "item.kubejs.supreme_drill": "§4Supreme Drill",
+
+  "item.kubejs.sir_pumpkinhead_lootbag": "Sir Pumpkinhead Lootbag",
+  "item.kubejs.lord_pumpkinhead_lootbag": "Lord Pumpkinhead Lootbag",
+
+  "item.kubejs.coal_stub": "Coal Stub",
+  "item.kubejs.coal_pen": "Coal Pen",
+
+  "item.kubejs.empty_moon_sign": "Empty Moon Sign",
+  "item.kubejs.blood_moon_sign": "Blood Moon Sign",
+  "item.kubejs.super_blood_moon_sign": "Super Blood Moon Sign",
+  "item.kubejs.blue_moon_sign": "Blue Moon Sign",
+  "item.kubejs.super_blue_moon_sign": "Super Blue Moon Sign",
+  "item.kubejs.harvest_moon_sign": "Harvest Moon Sign",
+  "item.kubejs.super_harvest_moon_sign": "Super Harvest Moon Sign",
+  "item.kubejs.super_moon_sign": "Super Moon Sign",
+
+  "item.kubejs.dark_metal_frame": "Dark Metal Frame",
+  "item.kubejs.watered_sapling": "Watered Sapling",
+  "item.kubejs.ender_eye_on_a_stick": "Eye of Ender on a Stick",
+  "item.kubejs.incomplete_oil_scanner": "Incomplete Oil Scanner",
+
+  "item.kubejs.blank_upgrade": "Blank Upgrade",
+  "item.kubejs.blank_height_upgrade": "Blank Height Upgrade",
+  "item.kubejs.blank_width_upgrade": "Blank Width Upgrade",
+  "item.kubejs.blank_distance_upgrade": "Blank Distance Upgrade",
+
+  "item.kubejs.ghostly_remnant": "Ghostly Remnant",
+  "item.kubejs.saturated_remnant": "Saturated Remnant",
+  "item.kubejs.big_bang_remnant": "Remnant of the Big Bang",
+  "item.kubejs.big_bang_remnant_pieces": "Big Bang Remnant Pieces",
+  "item.kubejs.supreme_essence": "Supreme Essence",
+
+  "item.kubejs.enchanting_infuser_book": "Enchanting Infuser Book",
+  "item.kubejs.advanced_enchanting_infuser_book": "Advanced Enchanting Infuser Book",
+
+  "item.kubejs.star": "Star",
+  "item.kubejs.star_shards": "Star Shards",
+  "item.kubejs.supreme_food_bucket": "Supreme Food Bucket",
+  "item.kubejs.star_bucket": "Star Bucket",
+
+  "item.kubejs.supreme_hammer": "§4Supreme Hammer",
+  "item.kubejs.supreme_destruction": "§4Supreme Destruction",
+  
+  "item.kubejs.tooltip.holdshift": "§8Hold [§7Shift§r§8] for more info",
+  "item.kubejs.tooltip.disableditem": "§4§lDISABLED/CANNOT BE OBTAINED",
+  "item.kubejs.tooltip.supreme_matter": "§7This item needed only for portal activation",
+  "item.kubejs.tooltip.supreme_food_bucket": "§5✨Infinite!"
+}

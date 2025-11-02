@@ -1,0 +1,221 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = quit.game.menu
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1759953557684
+  is_enabled = true
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:6bac3731-338b-4897-a995-27cc14e71aef-1759953553993] = [groups:][instances:]
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = false
+}
+
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+  show_screen_background_overlay_on_custom_background = false
+  apply_vanilla_background_blur = false
+}
+
+layout_action_executable_blocks {
+}
+
+element {
+  button_element_executable_block_identifier = 745db35e-1136-484f-b87b-ea5ab9d2d979-1757234983832
+  [executable_action_instance:bba36362-7fde-45f0-a013-54b14a164ea8-1757235072832][action_type:quitgame] = 
+  [executable_block:9d1ef685-6885-4a66-acea-ce78203e8b7c-1757235071732][type:if] = [executables:bba36362-7fde-45f0-a013-54b14a164ea8-1757235072832;]
+  [if_executable_block_body:9d1ef685-6885-4a66-acea-ce78203e8b7c-1757235071732] = c289860d-0960-4516-b5b3-5c012be8092b-1757235065878
+  [loading_requirement_container_meta:c289860d-0960-4516-b5b3-5c012be8092b-1757235065878] = [groups:][instances:1142167b-eb95-48ca-bef0-79b70f818775-1757235066684;]
+  [loading_requirement:mouse_click][requirement_mode:if][req_id:1142167b-eb95-48ca-bef0-79b70f818775-1757235066684] = left
+  [executable_block:745db35e-1136-484f-b87b-ea5ab9d2d979-1757234983832][type:generic] = [executables:9d1ef685-6885-4a66-acea-ce78203e8b7c-1757235071732;]
+  restartbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = {"placeholder":"local","values":{"key":"snq_the_game.yes"}}
+  navigatable = true
+  widget_active_state_requirement_container_identifier = 40d5dfd0-2d30-4b0c-8c92-d0d1485c4d3d-1757234983832
+  [loading_requirement_container_meta:40d5dfd0-2d30-4b0c-8c92-d0d1485c4d3d-1757234983832] = [groups:][instances:]
+  is_template = false
+  template_apply_width = false
+  template_apply_height = false
+  template_apply_posx = false
+  template_apply_posy = false
+  template_apply_opacity = false
+  template_apply_visibility = false
+  template_apply_label = false
+  template_share_with = buttons
+  nine_slice_slider_handle = false
+  nine_slice_slider_handle_border_x = 5
+  nine_slice_slider_handle_border_y = 5
+  element_type = custom_button
+  instance_identifier = ff9e742c-cf5b-408a-a712-175b01b27c69-1757234983832
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1080
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = -107
+  y = 12
+  width = 100
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 31f1cf8e-5e3b-4647-b49a-a6bd9e8e0873-1757234983832
+  [loading_requirement_container_meta:31f1cf8e-5e3b-4647-b49a-a6bd9e8e0873-1757234983832] = [groups:][instances:]
+  enable_parallax = false
+  parallax_intensity_v2 = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
+}
+
+element {
+  button_element_executable_block_identifier = c01b5baf-0af0-4094-a426-67a0c40779dd-1757234990874
+  [executable_action_instance:ade44ff8-2d77-40a6-92aa-b84a9bf418d9-1757235100630][action_type:back_to_last_screen] = 
+  [executable_block:337a4e2d-3584-46d7-b9f6-0b5379b9c67b-1757235099725][type:if] = [executables:ade44ff8-2d77-40a6-92aa-b84a9bf418d9-1757235100630;]
+  [if_executable_block_body:337a4e2d-3584-46d7-b9f6-0b5379b9c67b-1757235099725] = af553ea4-f1c4-4c23-8b66-e62beef0a7cb-1757235094831
+  [loading_requirement_container_meta:af553ea4-f1c4-4c23-8b66-e62beef0a7cb-1757235094831] = [groups:][instances:5699b105-0455-4207-97d9-f3c87d11164b-1757235095359;]
+  [loading_requirement:mouse_click][requirement_mode:if][req_id:5699b105-0455-4207-97d9-f3c87d11164b-1757235095359] = left
+  [executable_block:c01b5baf-0af0-4094-a426-67a0c40779dd-1757234990874][type:generic] = [executables:337a4e2d-3584-46d7-b9f6-0b5379b9c67b-1757235099725;]
+  restartbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = {"placeholder":"local","values":{"key":"snq_the_game.no"}}
+  navigatable = true
+  widget_active_state_requirement_container_identifier = 6b5f4e63-bace-440e-b0e4-ebea466198fc-1757234990874
+  [loading_requirement_container_meta:6b5f4e63-bace-440e-b0e4-ebea466198fc-1757234990874] = [groups:][instances:]
+  is_template = false
+  template_apply_width = false
+  template_apply_height = false
+  template_apply_posx = false
+  template_apply_posy = false
+  template_apply_opacity = false
+  template_apply_visibility = false
+  template_apply_label = false
+  template_share_with = buttons
+  nine_slice_slider_handle = false
+  nine_slice_slider_handle_border_x = 5
+  nine_slice_slider_handle_border_y = 5
+  element_type = custom_button
+  instance_identifier = f97a0b23-c104-4eb7-bcb0-d99fb66980b7-1757234990874
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1080
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = 8
+  y = 12
+  width = 100
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = f720217d-4112-49e4-9efa-19404d4f767b-1757234990874
+  [loading_requirement_container_meta:f720217d-4112-49e4-9efa-19404d4f767b-1757234990874] = [groups:][instances:]
+  enable_parallax = false
+  parallax_intensity_v2 = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
+}
+
+element {
+  interactable = true
+  source = {"placeholder":"local","values":{"key":"snq.the.game.confirm"}}
+  source_mode = direct
+  shadow = true
+  scale = 1.0
+  base_color = #FFFFFFFF
+  text_border = 2
+  line_spacing = 2
+  enable_scrolling = true
+  auto_line_wrapping = true
+  remove_html_breaks = true
+  code_block_single_color = #737373FF
+  code_block_multi_color = #565656FF
+  headline_line_color = #A9A9A9FF
+  separation_line_color = #A9A9A9FF
+  hyperlink_color = #0771FCFF
+  quote_color = #818181FF
+  quote_indent = 8.0
+  quote_italic = false
+  bullet_list_dot_color = #A9A9A9FF
+  bullet_list_indent = 8.0
+  bullet_list_spacing = 3.0
+  parse_markdown = true
+  table_show_header = true
+  table_alternate_row_colors = true
+  table_line_color = #787878FF
+  table_header_background_color = #323232FF
+  table_row_background_color = #282828FF
+  table_alternate_row_color = #3C3C3CFF
+  table_line_thickness = 1.0
+  table_cell_padding = 8.0
+  table_margin = 4.0
+  element_type = text_v2
+  instance_identifier = df855687-62db-45ee-8028-c41422fd20a6-1757235014569
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1080
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = -34
+  y = -10
+  width = 159
+  height = 21
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 7ffc3048-08c1-413d-90ea-f520c5a9e4fa-1757235014569
+  [loading_requirement_container_meta:7ffc3048-08c1-413d-90ea-f520c5a9e4fa-1757235014569] = [groups:][instances:]
+  enable_parallax = false
+  parallax_intensity_v2 = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
+}
+

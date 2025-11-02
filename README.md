@@ -3,7 +3,6 @@
 ### Modpack features
 - _New world generation_
 - _Slightly more challenging survival_
-- _Many quests_
+- _Quests that will guide your game progress_
 - _Many reworked mod and vannila recipes_
 - _Custom items, blocks, and dimension_
-- _Russian and English language support_

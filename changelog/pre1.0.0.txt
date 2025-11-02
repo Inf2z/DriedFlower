@@ -1,0 +1,7 @@
+- DriedFlower first release
+//pre[1.0.0] update
+- Deleted all useless repo directories
+- Deleted Mob Grinding Utils:
+    Deleted all custom MGU-related items in KubeJS
+    Deleted all Crafttweaker recipes that relates with MGU
+- Deleted Stalking Creeper --> added CreeperBackguard

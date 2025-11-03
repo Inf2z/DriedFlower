@@ -5,3 +5,4 @@
     Deleted all custom MGU-related items in KubeJS
     Deleted all Crafttweaker recipes that relates with MGU
 - Deleted Stalking Creeper --> added CreeperBackguard
+- (only for Curseforge) Deleted Language Reload

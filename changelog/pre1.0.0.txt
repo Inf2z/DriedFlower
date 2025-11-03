@@ -1,8 +1,15 @@
-- DriedFlower first release
-//pre[1.0.0] update
+// Pre-first-release Changelog
 - Deleted all useless repo directories
-- Deleted Mob Grinding Utils:
+- Deleted Mob Grinding Utils
     Deleted all custom MGU-related items in KubeJS
     Deleted all Crafttweaker recipes that relates with MGU
 - Deleted Stalking Creeper --> added CreeperBackguard
-- (only for Curseforge) Deleted Language Reload
+// Curseforge version changes
+- Deleted Language Reload
++ Changed Lucky's Armor version from 1.0.2 --> to 1.0.1
+- Deleted Armor Stand Arms datapack
+- Deleted Corpse and Corpse Curios Compatibility --> added simple tomb
+- Deleted NetherPortalFix
+- Deleted Waystones --> added Simple Teleporters Reforged
+    Deleted all Crafttweaker recipes that use waystone's items
++ Added Stellar View

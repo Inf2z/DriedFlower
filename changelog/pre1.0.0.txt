@@ -8,8 +8,9 @@
 - Deleted Language Reload
 + Changed Lucky's Armor version from 1.0.2 --> to 1.0.1
 - Deleted Armor Stand Arms datapack
-- Deleted Corpse and Corpse Curios Compatibility --> added simple tomb
+- Deleted Corpse and Corpse Curios Compatibility --> added Simple Tomb
 - Deleted NetherPortalFix
 - Deleted Waystones --> added Simple Teleporters Reforged
     Deleted all Crafttweaker recipes that use waystone's items
 + Added Stellar View
+

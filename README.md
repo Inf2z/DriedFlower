@@ -1,4 +1,4 @@
-**DriedFlower** is a NeoForge magic-tech themed modpack, that sets in the Wastelands. The player's main goal is to create a portal leading to a recreated, green Overworld.
+DriedFlower is a NeoForge magic-tech themed modpack, that sets in the Wastelands. The player's main goal is to create a portal to the Overworld.
 
 ### Modpack features
 - Player starts in another dimension

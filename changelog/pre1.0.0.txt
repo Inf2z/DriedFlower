@@ -14,8 +14,8 @@
 + Added Stellar View
 - Deleted Biome Replacer
 - Deleted Biome O' Plenty, GlitchCore
-    Deleted all Crafttweaker and KubeJS recipes that use Biome O' Plenty's items --> replaced withered lily with vanilla dead bush, added dried salt and rose by KubeJS 
-    (temporarily it uses texture from Biome O' Plenty, I will make my own it in near future (maybe next update will be texture update btw))
+    Deleted all Crafttweaker and KubeJS recipes that use Biome O' Plenty's items --> replaced withered lily with vanilla dead bush, added dried salt and rose
+    (by now it temporarily uses texture from Biome O' Plenty, but I will make my own textures for new items in near future (maybe next update will be texture update btw))
 + Added DimensionSpawn
 + Changed game conception --> player starts in custom dimension and creates portal to Overworld (or you can say I just reversed original idea)
     Deleted origin dimension/biomes --> added Wastelands dimension/biome
@@ -30,3 +30,4 @@
 + Fixed Born In Chaos mobs not spawning in Wastelands
 - Deleted Enhanced Celestials 
     Deleted all KubeJS scripts, items, and Crafttweaker recipes that relates with Enhanced Celestials 
+

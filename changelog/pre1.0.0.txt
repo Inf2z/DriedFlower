@@ -27,4 +27,6 @@
 + Added quest about new nether portal
 + Edited some quest's description
 - Deleted modpack's CurseForge page
-    (trying to upload this modpack to Modrinth again. This procces is pure hell) 
++ Fixed Born In Chaos mobs not spawning in Wastelands
+- Deleted Enhanced Celestials 
+    Deleted all KubeJS scripts, items, and Crafttweaker recipes that relates with Enhanced Celestials 

@@ -26,4 +26,5 @@
 + Added new nether portal
 + Added quest about new nether portal
 + Edited some quest's description
-- Deleted modpack's Modrinth page
+- Deleted modpack's CurseForge page
+    (trying to upload this modpack to Modrinth again. This procces is pure hell) 

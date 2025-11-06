@@ -14,3 +14,6 @@
 - Deleted Xaero's World Map, XaeroZoomout, XaeroPlus
 - Deleted Better Clouds
 - Deleted Stellar View
++ Added Language Reload (fabric version)
++ Added Create Deco
++ Updated mostly all mods to latest versions

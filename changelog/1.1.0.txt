@@ -17,3 +17,7 @@
 + Added Language Reload (fabric version)
 + Added Create Deco
 + Mostly all mods has been updated to latest versions
+- Deleted Incapable
+- Deleted Fog (mod)
++ Fixed Wastelands mobs spawnrate
++ Updated panorama

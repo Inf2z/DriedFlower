@@ -16,4 +16,4 @@
 - Deleted Stellar View
 + Added Language Reload (fabric version)
 + Added Create Deco
-+ Updated mostly all mods to latest versions
++ Mostly all mods has been updated to latest versions

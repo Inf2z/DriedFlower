@@ -38,3 +38,5 @@
 - Removed interactions with Warped Chests, because they crash the game when opened. Warped chests interaction will be returned when developer of Unusual End fix this problem
 - Removed mods:
 	Language Reload
+
+update is not done yet, so and changelog. soon there will be more (i hope)

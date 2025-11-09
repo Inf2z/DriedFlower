@@ -1,0 +1,40 @@
++ Updated textures for:
+	Star
+	Star Shards
+	Eye of Ender on a Stick
+	Dark Metal Frame
+	Supreme Rod
+	Rose
+	Coal Stub
+	-Remnant-Obsidian
+	Dried Salt
+	Supreme Ingot Block
+	-Rift Stabilizer
+	-Star Bucket
+	-Supreme Food Bucket
+	Ghostly Remnant
+	Saturated Remnant
+	Remnant of the Big Bang
+	-Enchanting Infuser Book
+	-Advanced Enchanting Infuser Book
+	Book and Quill
++ Changed craft recipes:
+	Star Shards
+	Star
+	Book and Quill
+- Deleted Antique Ink recipe
++ Added mods:
+	KubeJS Tweaks
+	LootJS
+	Sodium + add-ons
+	Smooth Swapping
+	EMI + add-ons
+	Not Enough Recipe Book
+	Dark Loading Screen
++ Updated DriedFlower Resouces and DriedFlower Wastelands Icon and Description
++ Added Dried Flowers, Dried Saplings
++ Rose and Watered Sapling now can be placed
++ Dried Plants, Rose and Watered Sapling can be potted
+- Removed interactions with Warped Chests, because they crash the game when opened. Warped chests interaction will be returned when developer of Unusual End fix this problem
+- Removed mods:
+	Language Reload

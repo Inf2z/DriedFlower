@@ -18,10 +18,14 @@
 	Enchanting Infuser Book
 	Advanced Enchanting Infuser Book
 	Book and Quill
+	Bucket of Experience
+	Suspicious Seed
 + Changed craft recipes:
 	Star Shards
 	Star
 	Book and Quill
+	Advanced Enchanting Infuser Book
+	Enchanting Infuser Book
 - Deleted Antique Ink recipe
 + Added mods:
 	KubeJS Tweaks
@@ -31,11 +35,11 @@
 	EMI + add-ons
 	Not Enough Recipe Book
 	Dark Loading Screen
-+ Updated DriedFlower Resouces and DriedFlower Wastelands Icon and Description
++ Updated DriedFlower Resouces and DriedFlower Wastelands Icons and Descriptions
 + Added Dried Flowers, Dried Saplings
 + Hammering recipe for amethyst shards
 + Rose and Watered Sapling now can be placed
-+ Dried Plants, Rose and Watered Sapling can be potted
++ Dried plants, Rose and Watered Sapling can be potted
 - Removed interactions with Warped Chests, because they crash the game when opened. Warped chests interaction will be returned when developer of Unusual End fix this problem
 - Removed mods:
 	Language Reload

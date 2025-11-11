@@ -9,7 +9,7 @@
 	Remnant-Obsidian
 	Dried Salt
 	Supreme Ingot Block
-	-Rift Stabilizer
+	Rift Stabilizer
 	Star Bucket
 	Supreme Food Bucket
 	Ghostly Remnant
@@ -20,14 +20,15 @@
 	Book and Quill
 	Bucket of Experience
 	Suspicious Seed
-	-Custom Cursors
+	Custom Cursors
 + Changed craft recipes:
+	Origin Pumpkin (Netherite Pumpkin)
 	Star Shards
 	Star
 	Book and Quill
 	Advanced Enchanting Infuser Book
 	Enchanting Infuser Book
-- Deleted Antique Ink recipe
+ 	Antique Ink (recipe deleted)
 + Added mods:
 	KubeJS Tweaks
 	LootJS
@@ -39,6 +40,8 @@
 + Updated DriedFlower Resources and DriedFlower Wastelands Icons and Descriptions
 + Added Dried Flowers, Dried Saplings
 + Hammering recipe for amethyst shards
+- Deleted rain green recolor
+- Origin Pumpkin (Netherite Pumpkin) custom texture and renaming
 + Rose and Watered Sapling now can be placed
 + Dried plants, Rose and Watered Sapling can be potted
 - Blocked interaction with Warped Chest, because it crashes the game. Warped chest interaction will be returned when developer of Unusual End fix this problem

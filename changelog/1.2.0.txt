@@ -44,14 +44,16 @@
 - Origin Pumpkin (Netherite Pumpkin) custom texture and renaming
 + Rose and Watered Sapling now can be placed
 + Dried plants, Rose and Watered Sapling can be potted
++ Updated Game Window Icon (it might be changed in future update, right now it's more like placeholder)
 - Blocked interaction with Warped Chest, because it crashes the game. Warped chest interaction will be returned when developer of Unusual End fix this problem
 + Updated screenshots at modpack's Modrinth page
 + Added a "brand new" banner at modpack's Modrinth page
 + Lucky's Armor armor now can be enchanted
 + Fixed problem where you can't upgrade armor with enchantments (this applies only for armor smithing custom recipes)
++ Updated some mods
 - Removed mods:
 	Language Reload
 	Stackable Potions --> same functionality but made with KubeJS
-
++ Reworked Quests (~50%) 
 
 update is not done yet, so and changelog. soon there will be more (i hope)

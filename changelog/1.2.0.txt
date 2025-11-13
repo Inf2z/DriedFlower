@@ -54,6 +54,4 @@
 - Removed mods:
 	Language Reload
 	Stackable Potions --> same functionality but made with KubeJS
-+ Reworked Quests (~50%) 
-
-update is not done yet, so and changelog. soon there will be more (i hope)
++ Reworked Quests

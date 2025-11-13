@@ -37,6 +37,7 @@
 	EMI + add-ons
 	Not Enough Recipe Book
 	Dark Loading Screen
+	Block Blocker
 + Updated DriedFlower Resources and DriedFlower Wastelands Icons and Descriptions
 + Added Dried Flowers, Dried Saplings
 + Hammering recipe for amethyst shards
@@ -56,4 +57,5 @@
 	Stackable Potions --> same functionality but made with KubeJS
 	Embeddium + add-ons
 + Reworked Quests
+
 

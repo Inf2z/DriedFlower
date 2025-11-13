@@ -54,4 +54,6 @@
 - Removed mods:
 	Language Reload
 	Stackable Potions --> same functionality but made with KubeJS
+	Embeddium + add-ons
 + Reworked Quests
+

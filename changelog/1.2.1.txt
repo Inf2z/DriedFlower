@@ -1,0 +1,10 @@
++ A little change in the torch craft recipe
++ Changed coal ores drop:
+	Coal ore -> coal pieces
+	Deepslate Coal ore -> coal pieces + chance of dropping 1 coal
+	Dense Coal ore -> coal pieces + 1-2 coal
+	Dense Deepslate Coal ore -> coal pieces + 1-3 coal
++ Adjusted plants spawn in Wastelands
++ Updated some mods
++ Dense Ores and Artifacts campsites now spawns in Wastelands
++ Decrepit Skeleton and Decaying Zombie now spawns a little bit lesser

@@ -7,4 +7,4 @@
 + Adjusted plants spawn in Wastelands
 + Updated some mods
 + Dense Ores and Artifacts campsites now spawns in Wastelands
-+ Decrepit Skeleton and Decaying Zombie now spawns a little bit lesser
++ Decrepit Skeletons and Decaying Zombies now spawns a little bit lesser

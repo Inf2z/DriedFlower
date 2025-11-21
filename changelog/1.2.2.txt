@@ -1,0 +1,7 @@
+- Deleted CraftTweaker
+	+ Added KubeJS Create and KubeJS EnderIO
+	+ All scripts has been rewritten in KubeJS
++ Slightly changed craft recipe of Star Bucket, Small Fueling Tank, and Small Filling Tank
++ Lost Eye, Witch Eye, and Undead Eye craft recipes a little bit cheaper
++ Inventory Cables and Inventory Trim craft recipes now gives 8 items instead of 6/4
+...

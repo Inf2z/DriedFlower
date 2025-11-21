@@ -1,7 +1,20 @@
 - Deleted CraftTweaker
 	+ Added KubeJS Create and KubeJS EnderIO
 	+ All scripts has been rewritten in KubeJS
+- Deleted Simple Tombstone --> Corpse + Corpse Curios API Compat + Corpse Tweaker
++ Added Toast Control
+	- Disabled tutorial and recipe toasts
++ Updated some mods
 + Slightly changed craft recipe of Star Bucket, Small Fueling Tank, and Small Filling Tank
 + Lost Eye, Witch Eye, and Undead Eye craft recipes a little bit cheaper
 + Inventory Cables and Inventory Trim craft recipes now gives 8 items instead of 6/4
++ Changes in KubeJS items:
+	- Deleted Supreme Semi-Destruction
+	- Deleted Supreme Hammer
+	+ Added Supreme Sword
+	+ Added Supreme Shovel
+	+ Added Supreme Hoe
+	+ Added Paxels
+	+ Supreme Destruction craft recipe now is in paxel's craft pattern
+	+ Supreme Shovel and Supreme Destruction now have Supreme Hammer 3x3 destruction (actually, 4x4x4 destruction)
 ...

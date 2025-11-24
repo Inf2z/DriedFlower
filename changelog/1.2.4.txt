@@ -5,7 +5,7 @@
 + Now clouds looks a little bit different
 + Adjusted cave and daytime mobs spawn behavior pt.2
 - Deleted Naturally Charged Creepers
-+ Added Farmer's Delight cooking recipe for smoked monster flesh, smoked fish, and smoked flesh
++ Added Farmer's Delight cooking recipes for smoked monster flesh, smoked fish, and smoked flesh
 + Updated gallery in DriedFlower Modrinth page
 - + Updated panorama
 - + Fixed Player's model strange dismemberment while sneaking and etc.

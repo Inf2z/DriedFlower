@@ -1,5 +1,5 @@
 // WARNING
-If you curious about this release major issues, there is what list of known problems:
+If you curious about this release major issues, there is list of known problems:
     VERY fast mob spawnrate without any restrictions. In simple terms - your fps gonna be below 0    
     No features from newer versions (duh)
     No support or maintance
@@ -37,3 +37,4 @@ If you curious about this release major issues, there is what list of known prob
 + Fixed Born In Chaos mobs not spawning in Wastelands
 - Deleted Enhanced Celestials 
     Deleted all KubeJS scripts, items, and Crafttweaker recipes that relates with Enhanced Celestials 
+

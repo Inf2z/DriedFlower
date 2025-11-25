@@ -1,4 +1,11 @@
-// Pre-first-release Changelog
+// WARNING
+If you curious about this release major issues, there is what list of known problems:
+    VERY fast mob spawnrate without any restrictions. In simple terms - your fps gonna be below 0    
+    No features from newer versions (duh)
+    No support or maintance
+    ...and everything else that I personally don't like (specifially textures)
+
+// Pre-release Changelog
 - Deleted all useless repo directories
 - Deleted Mob Grinding Utils
     Deleted all custom MGU-related items in KubeJS
@@ -30,5 +37,3 @@
 + Fixed Born In Chaos mobs not spawning in Wastelands
 - Deleted Enhanced Celestials 
     Deleted all KubeJS scripts, items, and Crafttweaker recipes that relates with Enhanced Celestials 
-
-

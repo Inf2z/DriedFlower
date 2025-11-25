@@ -1,0 +1,6 @@
++ Added Default Options
+	+ A little bit changed default keybinds
+- Deleted Distant Horizons
++ Fixed issue with impossibility of igniting a bedrock
++ Fixed issue where you can't obtain Grains of Infinity in Wastelands
++ Added new oak planks crafting recipes

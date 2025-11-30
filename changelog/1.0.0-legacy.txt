@@ -3,7 +3,8 @@ If you curious about this release major issues, there is list of known problems:
     VERY fast mob spawnrate without any restrictions. In simple terms - your fps gonna be below 0    
     No features from newer versions (duh)
     No support or maintance
-    ...and everything else that I personally don't like (specifially textures)
+    Impossibility to make any modpack progress at some in-game point
+    ...and everything else that I personally don't like (especifically textures)
 
 // Pre-release Changelog
 - Deleted all useless repo directories
@@ -37,4 +38,5 @@ If you curious about this release major issues, there is list of known problems:
 + Fixed Born In Chaos mobs not spawning in Wastelands
 - Deleted Enhanced Celestials 
     Deleted all KubeJS scripts, items, and Crafttweaker recipes that relates with Enhanced Celestials 
+
 

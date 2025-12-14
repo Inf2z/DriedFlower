@@ -1,0 +1,15 @@
+- Deleted Legendary Tooltips
++ Added Obscure Tooltips
++ Recipe Book button returned back in player's inventory
++ Sticks can be crafted from any type of wood (don't ask why only oak planks can be crafted from those sticks)
++ Diamond Shards can be obtained from hammering a diamond
++ Clay can be found in Rainy Wasteland biome
++ Remnant-Obsidian recipe now ~4x cheaper
++ Added Powdered Zinc
++ Handheld Saw can be used in wooden blocks scrapping recipes
++ "Save and Quit the Game" menu now looks more like pause menu
+- Removed unused text in lang files
+- Removed "Hold [Shift] for more info" and that "more info" tooltips
++ Added EMI info tab to Supreme Matter, Rift Stabilizer, Supreme Food Bucket, and Clay
++ Added craft recipe for Dark Rod and Fused Bone
++ All nighttime mobs spawnrate was increased

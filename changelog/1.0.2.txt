@@ -1,0 +1,10 @@
++ Added Reimagined World Menu
+	+ Changed "Default" world type icon to Wastelands
++ Enabled buttons that was disabled in world generation menu
+- Deleted Simple Teleporters
++ Added Waystones
++ Added Unpolished Warp Stone
++ Added recipes for warp stone and warp dust
++ Added some dried flower vines to the mob miniature frame texture
++ Updated game window icons
++ Added modpack's version to the game window title

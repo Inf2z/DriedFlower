@@ -1,0 +1,13 @@
++ Fixed ore veins not generating in Wastelands
++ Replaced Veinminer Enchantment --> veinmining
++ Netherite-Iron and Netherite-Gold ingots now crafts in Alloy Smelter instead of Create
++ Added more recipes for sticks
++ Fixed recipes conflict for diamond crushing --> Changed diamond grit recipe, and removed extra diamond shard in diamond crushing recipe
++ Fixed oak planks dupe (Oak Log recipe in Alloy Smelter now requires 4 oak planks instead of 1, and 4 clay balls instead of 3)
++ Returned default coal ores drop (no more coal pieces)
++ Relocated combat roll HUD
++ Pumpkinheads lootbags now are fire resistant
++ Fixed Wastelands ambient level (0.7 --> 0.0, like in the Overworld)
++ Added new item: Soul Extractor, more info about it can be found in game (EMI Info page)
++ Changed a little bit the way mobs spawns in Wastelands 
++ Added some lore in EMI Info tab for Chaos Component, Mrs. Pumpkins Hat, and some animals spawn egg

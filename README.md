@@ -3,6 +3,6 @@ DriedFlower is a NeoForge magic-tech themed modpack, that sets in the Wastelands
 ### Modpack features
 - Instead of Overworld, Player starts in Wastelands
 - More challenging survival
-- Quests
+- Optional quests that are more like a guidebook
 - Many new recipes
 - Custom items and blocks

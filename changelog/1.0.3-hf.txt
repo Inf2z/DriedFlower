@@ -1,0 +1,2 @@
++ Fixed problem with stronghold and pillager outpost not spawning in Wastelands
++ Deleted all Create fan freezing and fan dragon breathing recipes, because they crashing the game

@@ -1,2 +1,2 @@
-+ Fixed problem with stronghold and pillager outpost not spawning in Wastelands
-+ Deleted all Create fan freezing and fan dragon breathing recipes, because they crashing the game
++ Fixed problem with Strongholds and Pillager Outposts not spawning in the Wastelands
++ Deleted all Create Dream and Desires Fan Freezing and Fan Dragon Breathing recipes, because they are crashing the game

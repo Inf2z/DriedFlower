@@ -1,0 +1,16 @@
+1.0.4 Changelog - Quest Overhaul Update
+===============================
+- Deleted mods: 
+	Boundless: Quests
+	Stonecutter Damage
+	Sky's Overworld Quartz
+- Deleted all advancements
++ Added mods 
+	AdvancementDisable
+	(Better) Shared Advancements
+	Show All Advancements
++ Added new quests (advancements)
++ Added craft recipe for a Centennial Trophy
++ Quests has been replaced with Minecraft advancements
++ Matter Manipulator's GUI has been reworked
++ Matter Manipulator's now plays Nether portal ambient sound while running

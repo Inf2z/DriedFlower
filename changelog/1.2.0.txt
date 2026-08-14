@@ -1,4 +1,4 @@
-1.0.4 Changelog - Quest Overhaul Update
+1.2.0 Changelog - Quest Overhaul Update
 ===============================
 - Deleted mods: 
 	Boundless: Quests

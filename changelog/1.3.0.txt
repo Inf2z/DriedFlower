@@ -15,6 +15,8 @@
 	Block Blocker
 	Substrate
 	Resource Pack Overrides
+	veinmining
+	Smooth Swapping
 + Added mods
 	Fancy Toasts | Better Advancements
 	Simply Tooltips
@@ -29,8 +31,10 @@
 	Punchy
 	Smooth Scrolling Reforged
 	Smooth Steps
-	AAA Particles
-	AAA Particles: World
+	Forge Config API Port
+	Amber
+	Liteminer
+	Concurrent Chunk Management Engine
 
 + NeoForge version was updated (21.1.213 -> 21.1.248)
 + All mods were updated to their newest (by 14.08.2026) versions
@@ -47,7 +51,7 @@
 + DriedFlower Resources now is global resourcepack (basically nothing changed)
 + Game window title was changed (DriedFlower <version> -> DriedFlower)
 - Removed "Available only in creative" tooltip from a Supreme Measure
-+ Changed button textures in the Ingame Options Screen and Pause Screen
++ Changed button textures
 + Options screen was splited. Now it's one that opens from the title and one that opens from the pause menu
 + KubeJS script names were changed
 

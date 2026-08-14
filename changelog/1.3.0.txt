@@ -1,0 +1,54 @@
+1.3.0 Changelog - Maintance
+===============================
+- Deleted mods: 
+	Maxxed Local Vanilla Difficulty
+	Chloride
+	Reese's Sodium Options
+	Sodium Extra
+	Sodium Lead Culling
+	Sodium Options API
+	Better Advancements
+	Leawind's Third Person
+	Durability Tooltip
+	PortalJS
+	Custom Portal API ReForged
+	Block Blocker
+	Substrate
+	Resource Pack Overrides
++ Added mods
+	Fancy Toasts | Better Advancements
+	Simply Tooltips
+	Moog's Structure Lib
+	Blueprint
+	More Culling
+	Naturally Charged Creepers
+	SmoothGui
+	BBL Portals
+	WeatherCore
+	Weather Extended
+	Punchy
+	Smooth Scrolling Reforged
+	Smooth Steps
+	AAA Particles
+	AAA Particles: World
+
++ NeoForge version was updated (21.1.213 -> 21.1.248)
++ All mods were updated to their newest (by 14.08.2026) versions
+- LMFT message was disabled
++ Warped Chest was enabled
++ Fan Freezing and Fan Dragon Breathing recipes were added back
+- Removed Netherite Upgrade Smithing Template recipe through Nethercotta
+- Replaced every Nethercotta with Nether Brick
++ Custom portal tint bug was resovled just by replacing custom portals from PortalJS with custom portals from BBL Portals
++ Renamed "Remnant-Obsidian" to "Remnant Infused Obsidian"
++ Remnant-Obsidian craft recipe now a lot cheaper (replaced Empowered Remnant with Ghostly Remnant)
++ Changed Remnant-Obsidian texture to be more fitting for its craft recipe
+- Held items tooltips were disabled
++ DriedFlower Resources now is global resourcepack (basically nothing changed)
++ Game window title was changed (DriedFlower <version> -> DriedFlower)
+- Removed "Available only in creative" tooltip from a Supreme Measure
++ Changed button textures in the Ingame Options Screen and Pause Screen
++ Options screen was splited. Now it's one that opens from the title and one that opens from the pause menu
++ KubeJS script names were changed
+
+P.S - want to say, idk will be there more DriedFlower updates, but, if there will be bugs or some cool ideas that I will like, maybe, this modpack will get 1 one more update. c":
